@@ -281,12 +281,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Kudakwashe - [@devwithkudzie](https://twitter.com/devwithkudzie)
+Kudzaishe Mukungurutse - [@devwithkudzie](https://twitter.com/devwithkudzie)
 Project Link: [https://github.com/devwithkudzie/task-management](https://github.com/devwithkudzie/task-management)
 
 ---
 
-<p align="center">Made with ❤️ by Kudakwashe</p>
+<p align="center">Made with ❤️ by Kudzaishe Mukungurutse</p>
 
 ## 📸 Screenshots
 

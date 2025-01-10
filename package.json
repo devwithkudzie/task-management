@@ -2,7 +2,7 @@
   "name": "task-management",
   "version": "1.0.0",
   "description": "A modern task management application",
-  "author": "Kudakwashe",
+  "author": "Kudzaishe Mukungurutse",
   "license": "MIT",
   "scripts": {
     "dev": "concurrently \"cd client && npm run dev\" \"cd server && npm run dev\"",
