@@ -1,0 +1,19 @@
+{
+  "name": "task-management",
+  "version": "1.0.0",
+  "description": "A modern task management application",
+  "author": "Kudakwashe",
+  "license": "MIT",
+  "scripts": {
+    "dev": "concurrently \"cd client && npm run dev\" \"cd server && npm run dev\"",
+    "build": "cd client && npm run build",
+    "test": "npm run test:client && npm run test:server",
+    "test:client": "cd client && npm test",
+    "test:server": "cd server && npm test",
+    "prepare": "husky install"
+  },
+  "devDependencies": {
+    "concurrently": "^8.0.0",
+    "husky": "^8.0.0"
+  }
+} 
